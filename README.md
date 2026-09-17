@@ -602,6 +602,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read, and write back to your personal context: articles, threads, PDFs, notes, and saved AI chats as Markdown.
+- [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
+  [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
+  🔑 - Persistent encrypted memory for AI agents — AES-256-GCM at rest, semantic recall, cross-agent continuity, audit-ready.
 - [UseMyContext](https://usemycontext.ai) `https://mcp.usemycontext.ai/mcp`
   [![UseMyContext MCP connector](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usemycontext/usemycontext)
   🔓 - Your own profile and files, read by any MCP client. OAuth unlocks your context; anonymous gets metadata only.
